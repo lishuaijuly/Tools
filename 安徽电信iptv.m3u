@@ -33,8 +33,6 @@ http://192.168.2.1:23234/rtp/238.1.78.243:7816
 http://192.168.2.1:23234/rtp/238.1.78.222:7648
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV-17HD
 http://192.168.2.1:23234/rtp/238.1.78.178:7296
-#EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN
-http://192.168.2.1:23234/rtp/238.1.78.50:6272
 #EXTINF:-1,tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://epg.112114.xyz/logo/女性时尚.png" group-title="央视",CCTV女性时尚HD
 http://192.168.2.1:23234/rtp/238.1.79.55:4576
 #EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="央视",CCTV兵器科技HD
