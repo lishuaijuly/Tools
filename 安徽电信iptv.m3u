@@ -59,12 +59,6 @@ http://192.168.2.1:23234/rtp/238.1.79.64:4648
 http://192.168.2.1:23234/rtp/238.1.79.58:4600
 #EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="央视",CCTV央视台球HD
 http://192.168.2.1:23234/rtp/238.1.79.59:4608
-#EXTINF:-1,tvg-id="中国教育CETV-1HD" tvg-name="中国教育CETV-1HD" tvg-logo="https://epg.112114.xyz/logo/中国教育CETV1.png" group-title="其他",中国教育CETV-1HD
-http://192.168.2.1:23234/rtp/238.1.78.158:7136
-#EXTINF:-1,tvg-id="中国教育CETV-2" tvg-name="中国教育CETV-2" tvg-logo="https://epg.112114.xyz/logo/中国教育CETV2.png" group-title="其他",中国教育CETV-2
-http://192.168.2.1:23234/rtp/238.1.78.106:6720
-#EXTINF:-1,tvg-id="空中课堂CETV-4" tvg-name="空中课堂CETV-4" tvg-logo="https://epg.112114.xyz/logo/空中课堂CETV4.png" group-title="其他",空中课堂CETV-4
-http://192.168.2.1:23234/rtp/238.1.78.107:6728
 #EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视HD
 http://192.168.2.1:23234/rtp/238.1.78.150:7072
 #EXTINF:-1,tvg-id="安徽经济生活" tvg-name="安徽经济生活" tvg-logo="https://epg.112114.xyz/logo/安徽经济生活.png" group-title="安徽",安徽经济生活HD
@@ -83,16 +77,6 @@ http://192.168.2.1:23234/rtp/238.1.79.45:4472
 http://192.168.2.1:23234/rtp/238.1.78.61:6360
 #EXTINF:-1,tvg-id="安徽导视频道" tvg-name="安徽导视频道" tvg-logo="https://epg.112114.xyz/logo/安徽导视.png" group-title="安徽",安徽导视频道
 http://192.168.2.1:23234/rtp/238.1.79.66:4664
-#EXTINF:-1,tvg-id="海豚生活HD" tvg-name="海豚生活HD" tvg-logo="https://epg.112114.xyz/logo/海豚生活.png" group-title="其他",海豚生活HD
-http://192.168.2.1:23234/rtp/238.1.79.50:4512
-#EXTINF:-1,tvg-id="海豚少儿HD" tvg-name="海豚少儿HD" tvg-logo="https://epg.112114.xyz/logo/海豚少儿.png" group-title="其他",海豚少儿HD
-http://192.168.2.1:23234/rtp/238.1.79.32:4368
-#EXTINF:-1,tvg-id="海豚健康HD" tvg-name="海豚健康HD" tvg-logo="https://epg.112114.xyz/logo/海豚健康.png" group-title="其他",海豚健康HD
-http://192.168.2.1:23234/rtp/238.1.79.33:4376
-#EXTINF:-1,tvg-id="海豚影视HD" tvg-name="海豚影视HD" tvg-logo="https://epg.112114.xyz/logo/海豚影视.png" group-title="其他",海豚影视HD
-http://192.168.2.1:23234/rtp/238.1.79.34:4384
-#EXTINF:-1,tvg-id="家家购物" tvg-name="家家购物" tvg-logo="https://epg.112114.xyz/logo/家家购物.png" group-title="其他",家家购物
-http://192.168.2.1:23234/rtp/238.1.78.32:6184
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视HD
 http://192.168.2.1:23234/rtp/238.1.78.162:7168
 #EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="卫视",天津卫视HD
@@ -161,9 +145,3 @@ http://192.168.2.1:23234/rtp/238.1.78.104:6704
 http://192.168.2.1:23234/rtp/238.1.78.27:6144
 #EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" group-title="卫视",厦门卫视
 http://192.168.2.1:23234/rtp/238.1.78.246:7840
-#EXTINF:-1,tvg-id="体育赛事HD" tvg-name="体育赛事HD" tvg-logo="https://epg.112114.xyz/logo/体育赛事.png" group-title="其他",体育赛事HD
-http://192.168.2.1:23234/rtp/238.1.78.33:6192
-#EXTINF:-1,tvg-id="中甲联赛HD" tvg-name="中甲联赛HD" tvg-logo="https://epg.112114.xyz/logo/中甲联赛.png" group-title="其他",中甲联赛HD
-http://192.168.2.1:23234/rtp/238.1.79.39:4424
-#EXTINF:-1,tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://epg.112114.xyz/logo/七彩戏剧.png" group-title="其他",七彩戏剧
-http://192.168.2.1:23234/rtp/238.1.78.85:6552
